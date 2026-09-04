@@ -66,6 +66,37 @@ Full-stack energy intelligence terminal for power market operators and traders �
 
 ---
 
+### 📚 Currently Learning
+
+I'm currently expanding from backend/data engineering into **Applied AI, autonomous systems, and robotics software**.
+
+**🧠 Applied AI Engineering**
+`LLMs` • `RAG` • `Embeddings` • `Vector Search` • `Tool Calling` • `Structured Outputs` • `Model Evaluation`
+Learning how to build AI applications that interact with real data, APIs, tools, and persistent system state.
+
+**🤖 Agentic AI & Autonomous Systems**
+`AI Agents` • `Multi-Agent Systems` • `Planning` • `Memory` • `Knowledge Graphs` • `Agent Orchestration` • `Failure Recovery`
+My focus is on moving beyond one-shot AI applications toward systems that can:
+**Plan → Execute → Observe → Verify → Recover → Remember → Continue**
+
+**⚙️ AI Systems Engineering**
+`Distributed Systems` • `Event-Driven Architecture` • `Queues` • `Caching` • `Observability` • `Fault Tolerance` • `MLOps`
+Learning how to make AI systems reliable, persistent, observable, and deterministic enough for real-world software.
+
+**🧠 Machine Learning**
+`PyTorch` • `Deep Learning` • `Time-Series ML` • `Feature Engineering` • `Model Evaluation` • `Anomaly Detection`
+Strengthening the ML foundation underneath the AI systems I build.
+
+**🛸 Robotics & Edge AI**
+`Computer Vision` • `Embedded AI` • `Sensor Fusion` • `Autonomous Navigation` • `Edge Computing` • `Robotics Software`
+Exploring how AI moves from cloud applications into physical systems that perceive and interact with the real world.
+
+**🔌 Embedded & Hardware Systems**
+`Raspberry Pi` • `Sensors` • `Cameras` • `Serial Communication` • `Linux` • `Hardware/Software Integration`
+Learning how software interfaces with sensors, controllers, embedded computers, and robotic platforms.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
