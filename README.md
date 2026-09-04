@@ -2,12 +2,12 @@
 <h3 align="center">Energy & Data Analyst · Building Physics-to-Code Bridges Between Energy Systems and Software</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Energy+Analytics+%7C+Data+Engineering+%7C+Applied+ML;Building+Diagnostics+%E2%80%A2+Power+Markets+%E2%80%A2+Time-Series+Data;Founder+%40+Veridian+Energy+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Energy+Analytics+%7C+Data+Engineering+%7C+Applied+ML;Building+Diagnostics+%E2%80%A2+Power+Markets+%E2%80%A2+Time-Series+Data;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/justus-anoruo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anoruojustus@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Aalborg,_Denmark-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -113,6 +113,6 @@ Learning how software interfaces with sensors, controllers, embedded computers, 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/justus-anoruo/">LinkedIn</a> ·
+  <a href="mailto:anoruojustus@gmail.com">Email</a>
 </p>
