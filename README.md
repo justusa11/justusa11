@@ -3,7 +3,7 @@
 <p align="center"><strong>Building Intelligent Systems Across Data, Energy & Physical Infrastructure</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Applied+AI+%E2%80%A2+Backend+Engineering;Data+Systems+%E2%80%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Applied+AI+%E2%80%A2+Backend+Engineering;Data+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
