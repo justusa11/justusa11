@@ -3,7 +3,7 @@
 <p align="center"><strong>Building Intelligent Systems Across Data, Energy & Physical Infrastructure</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Applied+AI+%E2%80%A2+Backend+Engineering;Data+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=lines=Applied+AI+%E2%80%A2+Backend+Engineering;Data+Systems+%E2%80%A2+IoT;Agentic+Systems+%E2%80%A2+AI+Engineering;Edge+AI+%E2%80%A2+Robotics+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🎓 MSc in **Building Energy Design** (Aalborg University) · BSc in **Architectural Technology & Construction Management** · AS in **Computer Information Systems**
 - ⚡ Energy & Data Analyst — background in large-scale time-series data from building and utility systems
 - 🔬 My work sits at the intersection of **building physics, data engineering, and applied machine learning**
-- 🌍 Based in Aalborg, Denmark — open to opportunities in energy analytics and power trading
+- 🌍 Based in Aalborg, Denmark — open to opportunities in Applied AI, Backend Engineering, Data Engineering, IoT, and Industrial/Robotics Software
 
 ---
 
@@ -98,15 +98,59 @@ Learning how software interfaces with sensors, controllers, embedded computers, 
 
 ---
 
+### 🔬 Currently Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Autonomous AI Execution System
+
+Designing a persistent AI system capable of working on long-running objectives instead of isolated prompts.
+
+**Core ideas**
+
+`Multi-Agent Systems` `Knowledge Graphs` `Persistent Memory`
+`Task Orchestration` `Deterministic Workflows`
+`Failure Recovery` `Tool Execution`
+
+**Execution loop**
+
+`Plan → Execute → Observe → Verify → Recover → Remember → Continue`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛸 Autonomous Drone / Edge AI
+
+Reverse-engineering a low-cost drone as a robotics platform for learning how intelligent software interacts with the physical world.
+
+**Exploring**
+
+`Computer Vision` `Sensor Fusion` `Edge AI`
+`Autonomous Navigation` `Embedded Linux`
+`Raspberry Pi` `Robotics Software`
+
+**System concept**
+
+`Sense → Perceive → Decide → Navigate → Act`
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justusa11&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusa11&layout=compact&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justusa11&hide_border=true" width="60%" />
 </p>
 
 ---
