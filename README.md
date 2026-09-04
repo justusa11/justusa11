@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Justus (Jay) Anoruo 👋</h1>
-<h3 align="center">Energy & Data Analyst · Building Physics-to-Code Bridges Between Energy Systems and Software</h3>
+<h3 align="center">Applied AI & Software Engineer</h3>
+<p align="center"><strong>Building Intelligent Systems Across Data, Energy & Physical Infrastructure</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Energy+Analytics+%7C+Data+Engineering+%7C+Applied+ML;Building+Diagnostics+%E2%80%A2+Power+Markets+%E2%80%A2+Time-Series+Data;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Applied+AI+%E2%80%A2+Backend+Engineering;Data+Systems+%E2%80%A2" alt="Typing SVG" />
 </p>
 
 <p align="center">
