@@ -17,7 +17,6 @@
 
 - 🎓 MSc in **Building Energy Design** (Aalborg University) · BSc in **Architectural Technology & Construction Management** · AS in **Computer Information Systems**
 - ⚡ Energy & Data Analyst — background in large-scale time-series data from building and utility systems
-- 🏗️ Founder of **[Veridian Energy Intelligence](#)**, building diagnostics and analytics tools for the energy sector
 - 🔬 My work sits at the intersection of **building physics, data engineering, and applied machine learning**
 - 🌍 Based in Aalborg, Denmark — open to opportunities in energy analytics and power trading
 
